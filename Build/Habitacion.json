@@ -1,0 +1,13 @@
+{
+"companyName": "Edumac",
+"productName": "Habitacion",
+"dataUrl": "Habitacion.data.unityweb",
+"asmCodeUrl": "Habitacion.asm.code.unityweb",
+"asmMemoryUrl": "Habitacion.asm.memory.unityweb",
+"asmFrameworkUrl": "Habitacion.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
